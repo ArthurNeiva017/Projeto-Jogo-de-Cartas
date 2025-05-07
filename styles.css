@@ -32,4 +32,14 @@
     font-size: 3rem;
  }
 
- 
+ button {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    justify-content: center;
+    margin-left: 370px;
+    height: 50px;
+    width: 50px;
+    border-radius: 40%;
+    cursor: pointer;
+ }
